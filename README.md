@@ -47,4 +47,4 @@ Name - [GitHub](https://github.com/s-singh3)
 
 ---
 
-*Educational project - real-world systems require additional compliance and fairness considerations.*
+
