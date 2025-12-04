@@ -43,7 +43,7 @@ Run all cells to load data, preprocess, train models (Random Forest, KNN, SVC, L
 
 ## Author
 
-Your Name - [GitHub](https://github.com/s-singh3)
+Name - [GitHub](https://github.com/s-singh3)
 
 ---
 
